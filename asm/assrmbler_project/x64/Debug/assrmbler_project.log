@@ -1,0 +1,7 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(517,5): warning MSB8028: The intermediate directory (x64\Debug\) contains files shared from another project (assrmbler_project.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  assembler.c
+  first _run.c
+  output.c
+  second_run.c
+  Generating Code...
+  assrmbler_project.vcxproj -> C:\Users\noyno\OneDrive\שולחן העבודה\Nir\מבנה המחשב\project1_312203672_311494066_206828881\asm\x64\Debug\asm.exe
